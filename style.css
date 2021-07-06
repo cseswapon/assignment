@@ -87,7 +87,8 @@ form.example input[type=text] {
 }
 .half-width-personal img{
     width: 70%;
-    margin-left: 60px;
+    margin-left: 65px;
+    margin-top: 25px;
     height: 80%;
 }
 .personal-banner{
